@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: e-mail - zufarbekz@bk.ru |
-                      telegram account - @zaynutdinovz   
+                      telegram account - https://t.me/zaynutdinovz
 
 <!---
 Zaynutdinov-Zufarbek/Zaynutdinov-Zufarbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
